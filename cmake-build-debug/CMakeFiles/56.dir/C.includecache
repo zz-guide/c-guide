@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xulei/jungle/cworkspace/myc/src/IPC/common.h
+sys/stat.h
+-
+sys/types.h
+-
+unistd.h
+-
+fcntl.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+sys/mman.h
+-
+
+/Users/xulei/jungle/cworkspace/myc/src/IPC/fifo/fifo_write.c
+../common.h
+/Users/xulei/jungle/cworkspace/myc/src/IPC/common.h
+

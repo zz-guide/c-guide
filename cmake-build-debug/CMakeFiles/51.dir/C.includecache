@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xulei/jungle/cworkspace/myc/src/socket/serverExample/server.c
+server.h
+/Users/xulei/jungle/cworkspace/myc/src/socket/serverExample/server.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+fcntl.h
+-
+errno.h
+-
+
+/Users/xulei/jungle/cworkspace/myc/src/socket/serverExample/server.h
+

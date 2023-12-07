@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xulei/jungle/cworkspace/myc/src/thread/example3/thread.c
+thread.h
+/Users/xulei/jungle/cworkspace/myc/src/thread/example3/thread.h
+
+/Users/xulei/jungle/cworkspace/myc/src/thread/example3/thread.h
+sys/stat.h
+-
+sys/types.h
+-
+unistd.h
+-
+fcntl.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+sys/mman.h
+-
+signal.h
+-
+time.h
+-
+pthread.h
+-
+

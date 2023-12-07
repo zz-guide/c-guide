@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xulei/jungle/cworkspace/myc/src/IPC/sharedMemory/read/memShareRead.c
+sys/shm.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
