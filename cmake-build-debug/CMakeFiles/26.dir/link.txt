@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/26.dir/src/struct/example4/main.c.o CMakeFiles/26.dir/src/struct/example4/struct.c.o -o 26   -L/Users/xulei/jungle/cworkspace/mylib/mysql/c/mysql-8.0.28/lib 
