@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "e:\\tools\\mingw64\\bin\\gcc.exe",
+    "files.associations": {
+        "memory.h": "c",
+        "malloc.h": "c"
+    }
+}
